@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                 });
                 //i++;
             }
-        },0,500); //Sets delay and period of timer to stream data in ms (one window of data is 2.56s, suggest to decrease for faster testing)
+        },0,2560); //Sets delay and period of timer to stream data in ms (one window of data is 2.56s, suggest to decrease for faster testing)
 
 
     }
