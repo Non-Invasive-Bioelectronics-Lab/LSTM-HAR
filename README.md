@@ -18,7 +18,7 @@ This data should be loaded into the correct path when using the code. Two TFlite
 1) Load app into Android Studio
 2) Select desired model (float-32 or unit-8) in HARClassifier.java
 3) Set up Android Emulator device.
-4) Run app on Android Emulator Device
+4) Run app from MainActivity.java on Android Emulator Device
 
 The app was also contains commented sections of code that can be used to collect data directly from the smartphone's embedded sensors. However, this could not be tested accurately using the Emulator, so the code may need some extra work. 
 
